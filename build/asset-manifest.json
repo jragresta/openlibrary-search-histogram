@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/openlibrary-search-histogram/static/css/main.6c0a27de.chunk.css",
+    "main.js": "/openlibrary-search-histogram/static/js/main.259de1e6.chunk.js",
+    "main.js.map": "/openlibrary-search-histogram/static/js/main.259de1e6.chunk.js.map",
+    "runtime-main.js": "/openlibrary-search-histogram/static/js/runtime-main.2e093af5.js",
+    "runtime-main.js.map": "/openlibrary-search-histogram/static/js/runtime-main.2e093af5.js.map",
+    "static/js/2.b0fb3d2a.chunk.js": "/openlibrary-search-histogram/static/js/2.b0fb3d2a.chunk.js",
+    "static/js/2.b0fb3d2a.chunk.js.map": "/openlibrary-search-histogram/static/js/2.b0fb3d2a.chunk.js.map",
+    "index.html": "/openlibrary-search-histogram/index.html",
+    "static/css/main.6c0a27de.chunk.css.map": "/openlibrary-search-histogram/static/css/main.6c0a27de.chunk.css.map",
+    "static/js/2.b0fb3d2a.chunk.js.LICENSE.txt": "/openlibrary-search-histogram/static/js/2.b0fb3d2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e093af5.js",
+    "static/js/2.b0fb3d2a.chunk.js",
+    "static/css/main.6c0a27de.chunk.css",
+    "static/js/main.259de1e6.chunk.js"
+  ]
+}
