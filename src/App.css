@@ -1,0 +1,57 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.title{
+  background: #247;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  color: #fff;
+}
+.button {
+  background-color:#247;
+  color: #fff;
+  padding: 3px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: 0;
+  margin: 10px 10px;
+  font-size: 15px;
+}
+.input-field{
+  margin-left: 10px;
+  padding: auto;
+  outline: none;
+  border: none;
+  border-bottom: 2px solid #247;
+  font-size: 20px;
+}
+.chart{
+  width: 90%;
+}
+.container{
+  width: 90%;
+  margin: auto;
+  justify-content: left;
+  text-align: left;
+}
+
+.list{
+  list-style-type: none;
+  font-size: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  color: black;
+  text-align: left;
+  background: #fff;
+}
+.list-item{
+  list-style-type: none;
+  background: #fff;
+  padding: 10px;
+  margin: 10px;
+}
+
