@@ -1,6 +1,6 @@
 {
   "name": "openlibrary-histogram",
-  "homepage": "https://jragresta.github.io/openlibrary-histogram",
+  "homepage": "https://jragresta.github.io/openlibrary-search-histogram",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
